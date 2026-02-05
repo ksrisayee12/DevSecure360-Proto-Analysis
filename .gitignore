@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+npm-debug.log
+dist/
+build/
+
+# Cache
+.cache/
+*.pack
+
+# VS Code
+.vscode/
